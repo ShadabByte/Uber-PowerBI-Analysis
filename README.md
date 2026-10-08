@@ -76,8 +76,15 @@ The dashboard provides important performance indicators such as:
 ---
 
 ## 📷 Dashboard Preview
+### 1. Overview Analysis
+![Uber Dashboard Overview](dashboard-overview.png)
 
-![Uber Power BI Dashboard](dashboard-overview.png)
+### 2.Time Analysis
+![Uber Time Analysis](dashboard-time-analysis.png)
+
+### 3. Details Analysis
+![Uber Details Analysis](dashboard-details.png)
+
 
 ---
 
